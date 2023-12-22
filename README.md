@@ -23,7 +23,7 @@
 </div>
 <div align="center">
   <h2 align="center">🐍 Contributions</h2>
-  <img src="https://raw.githubusercontent.com/Jazzmedo/About-me/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Jazzmedo/Jazzmedo/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <div align="center">
