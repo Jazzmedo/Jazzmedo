@@ -5,7 +5,7 @@
     
       <img src="https://img.shields.io/badge/Gists-blue?logo=github">
   </div>
-
+</div>
 <div>
   <h2 align="center">💻 About me</h2>
   <div align="center">
