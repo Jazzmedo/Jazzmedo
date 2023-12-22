@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**Jazzmedo/Jazzmedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
+  <div id="badges">
+    <a href="https://gists.github.com/0xfff0800">
+      <img src="https://img.shields.io/badge/Gists-blue?logo=github">
+  </div>
 
-Here are some ideas to get you started:
+<div>
+  <h2 align="center">💻 About me</h2>
+  <div align="center">
+    <p>•  I am a Computer Science student </p>
+    <p>•  I'm studying in Modern Academy Maadi</p>
+  </div>
+</div>
+<div align="center">
+  <h2 align="center">📜 Skills & Tools</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,dart,py,html,css,js,java,php"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=flutter,discord,vscode,powershell,git,github,mysql"/>
+  </a>
+</div>
+<div align="center">
+  <h2 align="center">🐍 Contributions</h2>
+  <img src="https://raw.githubusercontent.com/Jazzmedo/About-me/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2 align="center">📊 Statistics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jazzmedo&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true&mode=weekly">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jazzmedo&theme=tokyonight_duo&hide_border=true&mode=weekly">
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
+</div>
