@@ -5,8 +5,8 @@
 <div>
   <h2 align="center">💻 About me</h2>
   <div align="center">
-    <p>•  I am a Computer Science student </p>
-    <p>•  I'm studying in Modern Academy Maadi</p>
+    <h4>•  I am a Computer Science student </h4>
+    <h4>•  I'm studying in Modern Academy Maadi</h4>
   </div>
 </div>
 <div align="center">
