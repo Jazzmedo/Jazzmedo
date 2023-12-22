@@ -1,10 +1,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&height=200&fontAlignY=40"/>
-  <div id="badges">
-    
-      <img src="https://img.shields.io/badge/Gists-blue?logo=github">
-  </div>
 </div>
 <div>
   <h2 align="center">💻 About me</h2>
