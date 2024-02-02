@@ -7,6 +7,8 @@
   <div align="center">
     <h3>•  I am a Computer Science student </h3>
     <h3>•  I'm studying in Modern Academy Maadi</h3>
+    <h3>•  ✉For Contact</h3>
+    <h4>  •  Mohamedmelawany@hotmail.com</h4>
   </div>
 </div>
 <div align="center">
