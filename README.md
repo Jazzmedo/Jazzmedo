@@ -15,9 +15,9 @@
 <div align="center">
   <h1 align="center">📜 Skills & Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,dart,py,html,css,js,java,php"/>
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=flutter,discord,vscode,powershell,git,github,mysql"/>
+    <img src="https://skillicons.dev/icons?i=react,git,github,notion,discord,vscode,powershell"/>
   </a>
 </div>
 <div align="center">
