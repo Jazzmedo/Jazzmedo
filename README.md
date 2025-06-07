@@ -6,8 +6,8 @@
 <div>
   <h1 align="center">💻 About me</h1>
   <div align="center">
-    <h3>•  I am a Computer Science student </h3>
-    <h3>•  I'm studying in Modern Academy Maadi</h3>
+    <h3>•  Technoilogy Enthusiast </h3>
+    <h3>•  I'm a Computer Science student in Modern Academy Maadi</h3>
     <h3>•  ✉For Contact</h3>
     <h4>  •  Mohamedmelawany@hotmail.com</h4>
   </div>
@@ -15,9 +15,9 @@
 <div align="center">
   <h1 align="center">📜 Skills & Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,latex,regex,cpp"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=react,git,github,notion,discord,vscode,powershell"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,react,linux,git,github,obsidian,discord,vscode,powershell"/>
   </a>
 </div>
 <div align="center">
