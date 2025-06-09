@@ -6,7 +6,7 @@
 <div>
   <h1 align="center">💻 About me</h1>
   <div align="center">
-    <h3>•  Technoilogy Enthusiast </h3>
+    <h3>•  Technology Enthusiast </h3>
     <h3>•  I'm a Computer Science student in Modern Academy Maadi</h3>
     <h3>•  ✉For Contact</h3>
     <h4>  •  Mohamedmelawany@hotmail.com</h4>
