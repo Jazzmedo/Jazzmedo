@@ -6,7 +6,7 @@
 
 <div align="center">
 
-**🔴 🟡 🟢** &nbsp; `7anafi@fedora — zsh`
+**🔴 🟡 🟢** &nbsp; `7anafi@ricebox — zsh`
 
 <!-- real stats, regenerated daily by https://github.com/Jazzmedo/fastfetch.md -->
 <a href="https://github.com/Jazzmedo/fastfetch.md">
@@ -28,10 +28,10 @@
 | [`ShellTint`](https://github.com/Jazzmedo/ShellTint) | recolour Firefox & 130+ sites from your desktop shell's palette |
 | [`Dorking`](https://github.com/Jazzmedo/Dorking) | build precise Google dork queries visually — Chrome & Firefox |
 
-### `$ cat stats.txt`
+### `$ cat /etc/stack`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jazzmedo&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true" alt="stats">
-<img src="https://streak-stats.demos.tf?user=Jazzmedo&theme=tokyonight&hide_border=true" alt="streak">
+[![stack](https://skillicons.dev/icons?i=linux,docker,git,github,bash,neovim)](https://skillicons.dev)
+[![stack](https://skillicons.dev/icons?i=py,ts,js,rust,react,tailwind,nodejs,latex,regex,cpp)](https://skillicons.dev)
 
 ---
 
