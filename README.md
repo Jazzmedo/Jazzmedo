@@ -8,20 +8,15 @@
 
 **🔴 🟡 🟢** &nbsp; `7anafi@fedora — zsh`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7EE787&center=true&vCenter=true&width=620&lines=%24+whoami+%3B+cat+about.txt%E2%80%A6;7anafi+%E2%80%94+CS+student+%C2%B7+Linux+ricer+%C2%B7+QML+tinkerer;%24+uptime+%3B+Free+Palestine+%F0%9F%94%BB" alt="typing"></a>
+<!-- real stats, regenerated daily by https://github.com/Jazzmedo/fastfetch.md -->
+<a href="https://github.com/Jazzmedo/fastfetch.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jazzmedo/fastfetch.md/main/.github/Jazzmedo_dark.svg">
+    <img alt="fastfetch" src="https://raw.githubusercontent.com/Jazzmedo/fastfetch.md/main/.github/Jazzmedo_light.svg">
+  </picture>
+</a>
 
 </div>
-
-```
-        ▄▄▄▄▄▄        7anafi@fedora
-       ▄████████▄     ─────────────────────────────
-       ██████████▄    OS        Fedora Linux (x86_64)
-       ▀█████████▄    WM        Hyprland — Wayland
-        ▀██████▄      Shell     DMS (DankMaterialShell)
-         ▀████▄       Term      zsh
-          ▀▄▄▀        Theme     matugen · Nothing-inspired
-                       Vault     Obsidian (emeraldian knows it)
-```
 
 ---
 
@@ -33,23 +28,10 @@
 | [`ShellTint`](https://github.com/Jazzmedo/ShellTint) | recolour Firefox & 130+ sites from your desktop shell's palette |
 | [`Dorking`](https://github.com/Jazzmedo/Dorking) | build precise Google dork queries visually — Chrome & Firefox |
 
-<details>
-<summary><code>$ dnf list installed | grep skills</code></summary>
-<br>
-
-[![skills](https://skillicons.dev/icons?i=html,css,js,ts,py,bash,rust)](https://skillicons.dev)
-[![skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,linux,git,github,obsidian,vscode,docker,latex,regex,cpp)](https://skillicons.dev)
-
-</details>
-
-<details>
-<summary><code>$ cat stats.txt</code> <em>(click)</em></summary>
-<br>
+### `$ cat stats.txt`
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jazzmedo&include_all_commits=true&theme=tokyonight_duo&show_icons=true&count_private=true&hide_border=true" alt="stats">
 <img src="https://streak-stats.demos.tf?user=Jazzmedo&theme=tokyonight&hide_border=true" alt="streak">
-
-</details>
 
 ---
 
